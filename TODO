@@ -1,0 +1,18 @@
+NAME
+    Class::MakeMethods::Emulator::ToDo - Ideas, problems, and suggestions
+
+SYNOPSIS
+SEE ALSO
+    See the Class::MakeMethods manpage for an overview of the
+    method-generation framework.
+
+    See the Class::MakeMethods::Emulator manpage for an overview of the
+    emulator-installation interface.
+
+    See the Class::MakeMethods::Emulator::Guide manpage for a
+    getting-started guide, annotated examples of usage, and a listing of the
+    method generation classes included in this distribution.
+
+    See the Class::MakeMethods::Emulator::ReadMe manpage for distribution,
+    installation, version and support information.
+

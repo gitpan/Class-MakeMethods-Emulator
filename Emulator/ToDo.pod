@@ -1,0 +1,26 @@
+=head1 NAME
+
+Class::MakeMethods::Emulator::ToDo - Ideas, problems, and suggestions
+
+
+=head1 SYNOPSIS
+
+
+
+
+=head1 SEE ALSO
+
+See L<Class::MakeMethods> for an overview of the method-generation
+framework.
+
+See L<Class::MakeMethods::Emulator> for an overview of the emulator-installation interface.
+
+See L<Class::MakeMethods::Emulator::Guide> for a getting-started guide,
+annotated examples of usage, and a listing of the method generation
+classes included in this distribution.
+
+See L<Class::MakeMethods::Emulator::ReadMe> for distribution, installation,
+version and support information.
+
+=cut
+
